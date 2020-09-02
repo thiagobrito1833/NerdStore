@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identidade", "Identidade", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{130860EC-E278-4A16-8A06-29FE3EC3F34B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.WebApp.MVC", "src\web\NS.WebApp.MVC\NS.WebApp.MVC.csproj", "{997CEE11-A2B4-4522-99B0-BEAC1E151326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.WebApp.MVC", "src\web\NS.WebApp.MVC\NS.WebApp.MVC.csproj", "{997CEE11-A2B4-4522-99B0-BEAC1E151326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Identidade.API", "src\services\NS.Identidade.API\NS.Identidade.API.csproj", "{AB1BF9E5-9814-4720-AC8D-371C6AC3E48A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Identidade.API", "src\services\NS.Identidade.API\NS.Identidade.API.csproj", "{AB1BF9E5-9814-4720-AC8D-371C6AC3E48A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{64056D7D-623F-440D-84DE-2429989A6593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Core", "src\building blocks\NS.Core\NS.Core.csproj", "{DD1066BD-F7A7-4B23-9257-7D40A86730ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Core", "src\building blocks\NS.Core\NS.Core.csproj", "{DD1066BD-F7A7-4B23-9257-7D40A86730ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Carrinho", "Carrinho", "{F9F6C19A-8F54-4D4E-A9F4-FB548F0A2664}"
 EndProject
@@ -33,15 +33,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagamento", "Pagamento", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedido", "Pedido", "{AF3A5C24-F4F3-4309-83D8-049171BA980E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Carrinho.API", "src\carrinho\NS.Carrinho.API\NS.Carrinho.API.csproj", "{9FE863E0-A090-428E-BCFC-EAC3E5846B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Carrinho.API", "src\carrinho\NS.Carrinho.API\NS.Carrinho.API.csproj", "{9FE863E0-A090-428E-BCFC-EAC3E5846B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Catalogo.API", "src\services\catalogo\NS.Catalogo.API\NS.Catalogo.API.csproj", "{4392148E-A9AB-49CC-8633-D2DA4B2D34D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Catalogo.API", "src\services\catalogo\NS.Catalogo.API\NS.Catalogo.API.csproj", "{4392148E-A9AB-49CC-8633-D2DA4B2D34D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Cliente.API", "src\services\cliente\NS.Cliente.API\NS.Cliente.API.csproj", "{A848F41A-4107-4272-85A0-1232774E07D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Cliente.API", "src\services\cliente\NS.Cliente.API\NS.Cliente.API.csproj", "{A848F41A-4107-4272-85A0-1232774E07D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Pagamento.API", "src\services\pagamento\NS.Pagamento.API\NS.Pagamento.API.csproj", "{E51BC6FB-ADD5-4397-ABE7-BFD1817B6525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Pagamento.API", "src\services\pagamento\NS.Pagamento.API\NS.Pagamento.API.csproj", "{E51BC6FB-ADD5-4397-ABE7-BFD1817B6525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Pedidos.API", "src\services\pedidos\NS.Pedidos.API\NS.Pedidos.API.csproj", "{0AA9292F-4418-4AEF-A91E-80B97D654FC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NS.Pedidos.API", "src\services\pedidos\NS.Pedidos.API\NS.Pedidos.API.csproj", "{0AA9292F-4418-4AEF-A91E-80B97D654FC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
